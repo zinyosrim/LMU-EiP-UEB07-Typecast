@@ -35,6 +35,7 @@ public class TerminierungVonSchleifen {
 				
 			}
 */
+/* (d) */
 		long i = 26L;
 		long j = 24L;
 		int z = 0;
